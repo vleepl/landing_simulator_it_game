@@ -1,0 +1,6 @@
+@import './reset.css';
+
+.wrapper.main {
+  width: 100% !important;
+  height: 100% !important;
+}
